@@ -2,7 +2,7 @@
 
 👨‍💻 Sou desenvolvedor de software Back-End/Fullstack
 
-📖Estudo Desenvolvimento de Software com Foco em Back-End [Cubos Academy](https://cubos.academy/)
+📖Estudo Desenvolvimento de Software com Foco em Back-End na [Cubos Academy](https://cubos.academy/)
 
 ### Tecnologias
 
